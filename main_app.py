@@ -67,7 +67,7 @@ st.markdown(
 st.markdown("""
     <div class="header">
   <h1>WEATHER REPORT</h1>
-  <p>by: Ashwin.B</p>
+  <p><b>by:</b> <a style="color:white; font-weight: bold;" href="https://flow.page/ahn1305" target="_blank">Ashwin.B</a></p>
 </div>
 """,
 unsafe_allow_html=True
