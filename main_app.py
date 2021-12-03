@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import time
 
-api_key = "5d4acda3540d0674a448c03f8e9cd3d8"
+api_key = ""
 
 url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 url_1 = 'https://api.openweathermap.org/data/2.5/onecall/timemachine?lat={}&lon={}&dt={}&appid={}'
